@@ -4,3 +4,5 @@
 *.pyc
 .cache
 .pytest_cache
+/tmp
+Manifest.toml
